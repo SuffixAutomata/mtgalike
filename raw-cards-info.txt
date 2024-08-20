@@ -1,0 +1,101 @@
+2 | 1 | 1 | | Bee | This card has no special rules.
+4 | 3 | 1 | | real category theorist | If any card, including the owner's and excluding this one, has the word “set” in its text, it is immediately killed upon this card being played.
+ | 0 | | BACK-PAS | Farm | At the beginning of your turn, if this card is on the board, you gain one mana. This card will not produce mana if there is a card on top of it.
+1 | 2 | | TOX1 | Jar of Poison |
+1 | 2 | 1 | 2FUR | extremely pointy grass
+6 | 4 | 2 | | Tank | Get it? It's like, a tank, and it has high HP, which is kind of like the thing,
+2 | 2 | 2 | | 2 point perspective cube |
+3 | 1 | 1 | | large language model | if any visibly humanoid card is opposite to this card, this card’s strength is set to zero.
+8 | 15 | 3 | 3FUR-ARMR-TOX∞ | Overpowered Triangle | When killed, the owner's mana is set to 0.
+[[unfinished]]
+alan turing | while in play: if a player’s draw deck runs out, the game immediately ends and they lose.
+necromancy | when played, move up to two cards from your discard pile to your hand. necromancy may only be played once per turn.
+fire elemental | This card has no special rules.
+wall | This card has no special rules.
+wall of boxing gloves | this card may attack but deals no damage.
+conformist mimic | In order to play this card, choose another card you control. Pay its mana cost. This card enters play as a (fresh) copy of that card and remains a copy until destroyed.
+Frozen Mana Cube | When this card is killed by the opponent’s cards or actions, the owner gains mana equal to the value of pay. Pay starts at 6 and decreases by 2 every time this card survives the opponent's attack phase (it cannot decrease below 0).
+Magical Mirror | This card will receive 0 damage from cards that lack sigils.
+Mundane Mirror | This card is considered to have all of the sigils of its opposite card while in play.
+John Armour | This card has no special rules.
+Spiky Trap | This card has no special rules.
+The Concept of Balance | This card has only 1 strength if the owner's health is greater than half of the opponent's health.
+Trans Rights | This card has the Bifurcated Strike and Armoured sigils if the owner is transgender and the opponent is not. You may only have one of these in your deck at most.
+Backpropagation | Loss starts at 15 and decreases by 1 each time this card survives the opponent's turn. When loss reaches 0, this card becomes "large language model".
+Scissors | Deals triple damage to any card which is paper or evidently made of paper. Has triple damage dealt to it by any card which is made of rock.
+Beacon (Factorio) | This cards' neighbors will have their sigils be the set union of their otherwise present sigils while this card is on the board. 
+conjuring pool | at the beginning of your turn, if this card is on the board and no cards are on top of it, draw a card OR gain one mana.
+wizard | at the beginning of your turn, gain one mana.
+terraforming implements | destroy any card with the “passive” sigil.
+mana tree | At the beginning of your turn, if this card is on the board, gain mana equal to this card’s yield, then increase its yield by one. Yield begins at 1. You may pay 1 mana to return this card from the board to your hand, resetting yield.
+equalizer | while on the board: all cards have 1 strength. Cards’ strength is reverted to their base values when the last copy of this card leaves the board.
+rock | deals triple damage to any card whose image depicts cutting implements. receives triple damage from cards whose image depicts paper
+sheet of paper | deals triple damage to cards whose image depicts rock. receives triple damage from cards whose image depicts scissors. deals one extra damage on its first attack.
+errant “uno” card | Whenever this card damages the opponent (but not one of their cards), you draw two cards.
+vial of mana | gain 2 mana. You may have at most 8 of these in your deck.
+glazed ham | Choose any card currently on the board; that card gains one strength and one health until destroyed.
+John Spam | all unoccupied spaces on your side become copies of this card with "remove this card from your deck after it is destroyed"
+recover | play this card on any card you control. Return that card to your hand.
+Forcefield | Any attack to neighboring spaces is retargeted to this card. Additionally, all incoming damage is reduced by 1.
+becau | While on the board: ephemeral cards’ sigils no longer apply. They have health equal to their mana cost and strength 1, unless those are already specified. (If they have 0 mana cost, they have no health counter.)
+fake category theorist | while on the board: any card with “set” in its text on or entering the board is treated as if it has no special text. Fake category theorists are excluded.
+set | This card is not targeted by attacks if cards are stacked on it. Cards may be played to the top of this space, even though it is occupied. set.
+buy time | Both players gain 12 health. You may only have one of these in your deck, which must have at least 50 cards for this to be usable. This card cannot be brought to your hand with necromancy.
+gnome | If this card destroys another card or hits the opponent, return it to your hand.
+boxer | When Double Strike does its extra hit, this card will do 0 damage.
+summoning counterspell | the opponent must discard a card of their choice.
+Lightning | Immediately kill any card on the board of your choice, as well as the (top) card opposite to it. There must be a card on both sides for this to be playable.
+inverse mana flask | your opponent loses 2 mana.
+Wretched Halthworm | When this card is placed, and for every turn this hideous thing survives the attack phase of (either player's), the owner gets 1 health. 
+flask of damage | damage any card with a health counter for 1 hp.
+Flask of Flask | Roll 2D6. Depending on the results, add two of these your hand (consider each die individually): 1, 2: Vial of mana; 3, 4: Flask of damage; 5, 6: Inverse mana flask
+dog | When attacking, attacks as though it had +1 STR for each humanoid card which is a neighbor of it.
+2 | This card's neighbors get Bifurcated Strike for as long as this card is on the board.
+mana abomination | When this card is damaged, you gain 2 mana.
+A picture | A picture is worth 1000 words. As such, considered appended to this text is the text of all non-picture cards (which have an effect) on the board (precedence: left to right top to bottom, owners POV).
+ice cube | Choose one of your opponent’s cards; it does not attack this turn.
+becau tamer | when your opponent discards an ephemeral card, it is instead placed on this card (if there are multiple becau tamers you control, you may choose one). When this card is destroyed, take all the actions on the ephemeral cards on it, from top to bottom, then discard them to your opponent’s discard deck.
+Perfect Pentagon | This card cannot die by any means. This supersedes all other cards. This card, or copies, cannot under any circumstances be played for free or a reduced cost, also overriding all other cards.
+cursèd toolbox | When this card is destroyed, you may play a card from your hand into its space for free.
+landing gear | While in play: the cost of cards in the owner's hand is set to one less than their base costs, if they cost more than 1 mana. This ability does not stack.
+literally nothing | This card has no special rules.
+knight | This card has no special rules.
+Mx. Stabby | This card has no special rules.
+Eater 1 | When played, all landing gears on the board are immediately killed.
+particularly startling noise | This card has no special rules.
+Prism | This card has no special rules.
+corrosive beast | While in play: your cards ignore armor when attacking.
+pikeman | This card has no special rules.
+Terrible Health Beast | When this card survives any attack phase, this card and the two neighboring cards, if extant, gain 1 HP.
+time machine | After this card is discarded, each player shuffles their discard deck and places it facedown on top of their draw deck. 
+disintegration | Instantly destroy any card on the board. This overrides the shielded sigil.
+No | The attack phase for this turn doesn't happen.
+Something | You can give this either Armoured, Piercing or Trifurcated Strike.
+conjure scraps of paper | draw two cards from your deck. conjure scraps of paper may only be played once per turn.
+Anger Totem | When a card is on top of this one, if it has a strength counter, the card on top gains 1 strength. 
+honestly fuck landing gear | destroy all landing gears on the board.
+Peace Totem | When a card is on top of this one, it gains 1 health every time the opponent's turn starts.
+Bodyguard | Any damage that would affect the owner directly is retargeted to this card.
+Infinity Spiders | This card cannot die unless it would have died in the opponent's prior attack phase, superseding all death sources.
+Blood Printer | For every card this card kills, or every time it damages the opponent directly, the owner may draw 1 card.
+Person with Stepladder | This card has no special rules.
+John Shield | This card has no special rules.
+Flourishing Grass | At the start of your turn, gains 1 HP (up to 5 HP).
+Hex | The opponent cannot use ephemeral cards on their next turn.
+Landed Gear | Non-ephemeral cards placed on this card cost 1 less mana to do so, if they cost more than 1 mana. This discount does not stack with that of landing gear.
+Pay to Win | While on the board, during your placement phase, you can spend 2 mana to have this card attack immediately.
+blood sacrifice | Lose half your health, rounded down. Gain that much mana. You may only play blood sacrifice once per turn.
+card in a bottle | when played: discard any non-ephemeral card from your hand. If that card has any instantaneous effects that would immediately occur upon the card entering the board, enact them.
+wastepaper basket | when played: you may discard one card from your hand
+blood knight | This card must be played on top of a card. Destroy the card it was played on.
+wazir | after the wazir attacks, you may move it to a neighboring unoccupied space. 
+Helpful Healer | This card cannot be returned to the hand or sacrificed for Blood Knight.
+Allergenic Flower | This card has no special rules.
+forcefem basement | forcefem basement and cards on top of it are immune to explicitly male cards and cards with “man” in their name.
+miniature tank | this card has no special rules.
+shopping center | you may pay 1 mana to return a card from on top of this card to your hand.
+vengeful hornet | when destroyed, deal STR damage directly to the opponent.
+emergency mana fund | Set your mana to 3. The quantity of these together with vials of mana present in your deck may sum to at most 8.
+ven | This card has base HP equivalent to its left neighbor's current HP or 1, and base strength equivalent to its right neighbor's current strength or 1.
+eater 2 | When played, all landing gears on the board are immediately killed.
+footman | This card cannot be stunned, and is also immune to ice cube.
