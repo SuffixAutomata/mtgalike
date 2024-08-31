@@ -16,6 +16,8 @@ class PlayerState():
   def remove(self, slot: int):
     # TODO: handle backdrop
     assert self.board[slot] is not None
+    self.board[slot].resetStats()
+    self.discardDeck.append(self.board[slot])
     self.board[slot] = None
   def deploy(self, slot: int, card: Card):
     assert self.board[slot] is None
@@ -33,7 +35,13 @@ class PlayerState():
   def output(self, v: str):
     print(f"[{self.name}] {v}")
   def augmentDeck(self, cardTypes):
-    for i in cardT
+    for i in cardTypes:
+      self.drawDeck.append(i(self))
+    random.shuffle(self.drawDeck)
+  def draw(self, cnt: int):
+    assert cnt <= len(self.drawDeck)
+    self.hand += self.drawDeck[:cnt]
+    self.drawDeck = self.drawDeck[cnt:]
 
 class Card():
   def __init__(self, owner : PlayerState):
@@ -42,17 +50,24 @@ class Card():
     self.strength : int = 0
     self.name = ""
     self.desc = ""
+    self.ini = None
     
     self.owner : PlayerState = owner
     self.opponent : PlayerState = self.owner.opponent
     self.slot = -1
     pass
   def _stat(self, hp : int, cost : int, strength : int, name : str, desc : str):
+    self.ini = (hp, cost, strength)
     self.hp, self.cost, self.strength, self.name, self.desc = hp, cost, strength, name, desc
-  def canBePlayed(self) -> bool:
+  def resetStats(self):
+    self.slot = -1
+    self.hp, self.cost, self.strength = self.ini
+  def canBePlayed(self, slot : int) -> bool:
     if self.slot != -1:
       return False
     if self.cost > self.owner.mana:
+      return False
+    if self.owner.board[slot] != None:
       return False
     return True
   def onDeploy(self, slot : int):
