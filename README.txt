@@ -1,4 +1,4 @@
-this project aimes to simulate a MTG-like card game my friends made
+this project aims to simulate a MTG-like card game my friends made
 
 with modding.
 
